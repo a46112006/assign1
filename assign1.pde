@@ -45,7 +45,7 @@ void draw() {
   image(fighterIng,580,240);
   image(treasureIng,x1,y1);
   rectMode(CORNERS);
-  rect(25,20,hp,30);
+  rect(20,15,hp,35);
   fill(#ff0000);
   image(hpIng,15,15);
   image(enemyIng,e1,e2);
